@@ -9,7 +9,7 @@
 #  COMO USAR: copia y pega todo este script en R/RStudio y ejecutalo (boton
 #  "Source"). Necesita conexion a internet. Al terminar, abre docs/index.html.
 #
-#  Autor: <Tu nombre>   |   Fuente: World Development Indicators (Banco Mundial)
+#  Autor: <Diego Fabian>   |   Fuente: World Development Indicators (Banco Mundial)
 # =============================================================================
 
 # --- 0. Paquetes ------------------------------------------------------------
@@ -225,7 +225,7 @@ pagina <- tagList(
 
   tags$p(class = "cap",
          "Fuente: World Development Indicators, Banco Mundial. ",
-         "Analisis y visualizacion: <Tu nombre>. Codigo en R (plotly). ",
+         "Analisis y visualizacion: <Diego Fabian>. Codigo en R (plotly). ",
          "Ultimo dato disponible segun el rezago de cada indicador.")
 )
 
